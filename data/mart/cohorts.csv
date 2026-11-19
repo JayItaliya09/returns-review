@@ -1,0 +1,193 @@
+month,category,product,channel,shipped_units,returned_units,refund_c,initial_margin_c,erosion_c
+2025-01,Footwear,City sneaker,Store,48,3,19665,179925,12815
+2025-01,Footwear,City sneaker,Web,130,27,175950,479635,133100
+2025-01,Accessories,Daypack,Store,49,1,5525,171600,3575
+2025-01,Accessories,Daypack,Web,121,12,73125,435175,56325
+2025-01,Apparel,Merino tee,Store,48,7,33075,118770,24325
+2025-01,Apparel,Merino tee,Web,113,16,75950,286005,59250
+2025-01,Apparel,Rain shell,Store,56,2,19800,281610,11900
+2025-01,Apparel,Rain shell,Web,141,20,182655,682695,112955
+2025-01,Home,Reading lamp,Store,47,0,0,191375,0
+2025-01,Home,Reading lamp,Web,114,4,30415,465430,21965
+2025-01,Accessories,Steel bottle,Store,53,4,11165,88005,10165
+2025-01,Accessories,Steel bottle,Web,122,12,33350,203795,28050
+2025-01,Home,Stoneware set,Store,44,3,16815,119290,12765
+2025-01,Home,Stoneware set,Web,130,10,55460,368485,49960
+2025-01,Footwear,Trail runner,Store,44,7,59630,203535,39880
+2025-01,Footwear,Trail runner,Web,129,41,341760,576915,226710
+2025-02,Footwear,City sneaker,Store,54,5,30705,196680,18855
+2025-02,Footwear,City sneaker,Web,97,12,77625,349705,55225
+2025-02,Accessories,Daypack,Store,35,0,0,122525,0
+2025-02,Accessories,Daypack,Web,127,3,19500,463125,13350
+2025-02,Apparel,Merino tee,Store,58,2,9310,144800,6210
+2025-02,Apparel,Merino tee,Web,121,15,68845,304575,44645
+2025-02,Apparel,Rain shell,Store,31,3,27720,152550,15770
+2025-02,Apparel,Rain shell,Web,120,16,149985,586620,95985
+2025-02,Home,Reading lamp,Store,45,3,21330,184845,22880
+2025-02,Home,Reading lamp,Web,132,9,67545,534865,58595
+2025-02,Accessories,Steel bottle,Store,40,1,2465,66780,2015
+2025-02,Accessories,Steel bottle,Web,112,6,15805,185650,13605
+2025-02,Home,Stoneware set,Store,46,3,16225,130210,17675
+2025-02,Home,Stoneware set,Web,117,12,68735,328480,69835
+2025-02,Footwear,Trail runner,Store,60,10,86775,279975,56775
+2025-02,Footwear,Trail runner,Web,117,38,316395,524480,196995
+2025-03,Footwear,City sneaker,Store,62,8,51405,230060,32805
+2025-03,Footwear,City sneaker,Web,139,22,144555,503560,99355
+2025-03,Accessories,Daypack,Store,47,2,12350,167700,8250
+2025-03,Accessories,Daypack,Web,105,5,29900,367900,19850
+2025-03,Apparel,Merino tee,Store,33,7,32585,82910,23535
+2025-03,Apparel,Merino tee,Web,132,12,56840,330415,40290
+2025-03,Apparel,Rain shell,Store,57,2,19800,278100,12000
+2025-03,Apparel,Rain shell,Web,113,16,144540,553275,85940
+2025-03,Home,Reading lamp,Store,63,3,22910,257835,17760
+2025-03,Home,Reading lamp,Web,139,8,57275,554955,44525
+2025-03,Accessories,Steel bottle,Store,51,1,2610,82665,1960
+2025-03,Accessories,Steel bottle,Web,119,5,13340,196800,10690
+2025-03,Home,Stoneware set,Store,50,1,5900,139660,6550
+2025-03,Home,Stoneware set,Web,106,11,61065,299100,58715
+2025-03,Footwear,Trail runner,Store,57,5,42275,254740,33625
+2025-03,Footwear,Trail runner,Web,105,25,206480,473380,141530
+2025-04,Footwear,City sneaker,Store,58,7,46575,210265,36025
+2025-04,Footwear,City sneaker,Web,94,8,52440,339775,33440
+2025-04,Accessories,Daypack,Store,44,3,18200,155350,14850
+2025-04,Accessories,Daypack,Web,130,8,47775,459875,34075
+2025-04,Apparel,Merino tee,Store,45,5,23275,111500,15275
+2025-04,Apparel,Merino tee,Web,124,19,88690,316990,61890
+2025-04,Apparel,Rain shell,Store,52,7,67320,255060,39470
+2025-04,Apparel,Rain shell,Web,112,9,85140,543420,49490
+2025-04,Home,Reading lamp,Store,38,0,0,152115,0
+2025-04,Home,Reading lamp,Web,120,5,36340,490155,31690
+2025-04,Accessories,Steel bottle,Store,57,1,2900,93320,2250
+2025-04,Accessories,Steel bottle,Web,98,5,13340,160885,11690
+2025-04,Home,Stoneware set,Store,48,5,28025,136705,30875
+2025-04,Home,Stoneware set,Web,108,6,33335,306775,28235
+2025-04,Footwear,Trail runner,Store,53,9,75650,243640,49500
+2025-04,Footwear,Trail runner,Web,120,25,210040,552385,142190
+2025-05,Footwear,City sneaker,Store,51,3,19665,189510,12515
+2025-05,Footwear,City sneaker,Web,133,17,111780,490600,77530
+2025-05,Accessories,Daypack,Store,36,1,6500,130325,4450
+2025-05,Accessories,Daypack,Web,135,8,50375,476450,34475
+2025-05,Apparel,Merino tee,Store,55,3,13965,134835,9065
+2025-05,Apparel,Merino tee,Web,138,14,65660,347895,45210
+2025-05,Apparel,Rain shell,Store,41,3,28710,202095,21360
+2025-05,Apparel,Rain shell,Web,106,20,189090,520920,132290
+2025-05,Home,Reading lamp,Store,54,3,22910,219365,21110
+2025-05,Home,Reading lamp,Web,99,5,38710,403420,24410
+2025-05,Accessories,Steel bottle,Store,48,1,2900,79730,2450
+2025-05,Accessories,Steel bottle,Web,129,3,8410,211320,6960
+2025-05,Home,Stoneware set,Store,52,3,17110,148220,16060
+2025-05,Home,Stoneware set,Web,107,6,34515,296005,32515
+2025-05,Footwear,Trail runner,Store,69,9,76540,319190,53790
+2025-05,Footwear,Trail runner,Web,128,26,218495,579925,146895
+2025-06,Footwear,City sneaker,Store,52,4,24150,187645,14750
+2025-06,Footwear,City sneaker,Web,115,18,118680,423430,88180
+2025-06,Accessories,Daypack,Store,33,2,12350,117650,8250
+2025-06,Accessories,Daypack,Web,116,5,31850,421525,23900
+2025-06,Apparel,Merino tee,Store,50,2,9065,127945,7915
+2025-06,Apparel,Merino tee,Web,113,17,80605,287230,57805
+2025-06,Apparel,Rain shell,Store,47,5,49500,232515,29350
+2025-06,Apparel,Rain shell,Web,106,17,160380,525375,102430
+2025-06,Home,Reading lamp,Store,42,2,15800,166360,16900
+2025-06,Home,Reading lamp,Web,103,6,43450,415295,36500
+2025-06,Accessories,Steel bottle,Store,49,0,0,81240,0
+2025-06,Accessories,Steel bottle,Web,94,6,16385,156295,14985
+2025-06,Home,Stoneware set,Store,45,4,23010,127110,19510
+2025-06,Home,Stoneware set,Web,126,13,72275,356675,59925
+2025-06,Footwear,Trail runner,Store,56,8,65415,250630,42715
+2025-06,Footwear,Trail runner,Web,115,32,274565,533170,186165
+2025-07,Footwear,City sneaker,Store,59,6,40365,214955,26265
+2025-07,Footwear,City sneaker,Web,152,18,117645,562115,78245
+2025-07,Accessories,Daypack,Store,45,3,18850,167375,12700
+2025-07,Accessories,Daypack,Web,128,6,37700,455650,25500
+2025-07,Apparel,Merino tee,Store,60,6,28420,151525,23320
+2025-07,Apparel,Merino tee,Web,107,10,46305,272935,32555
+2025-07,Apparel,Rain shell,Store,55,3,27225,270270,15575
+2025-07,Apparel,Rain shell,Web,126,23,214335,617535,141585
+2025-07,Home,Reading lamp,Store,39,2,15800,160910,13450
+2025-07,Home,Reading lamp,Web,116,9,70310,479860,62060
+2025-07,Accessories,Steel bottle,Store,64,0,0,106645,0
+2025-07,Accessories,Steel bottle,Web,140,2,5800,234020,4600
+2025-07,Home,Stoneware set,Store,42,1,5015,113975,2665
+2025-07,Home,Stoneware set,Web,98,8,43955,270760,34555
+2025-07,Footwear,Trail runner,Store,59,7,59185,263405,35735
+2025-07,Footwear,Trail runner,Web,116,24,198915,527045,130515
+2025-08,Footwear,City sneaker,Store,63,4,27600,231645,18200
+2025-08,Footwear,City sneaker,Web,110,19,124545,401015,79695
+2025-08,Accessories,Daypack,Store,42,1,6500,151775,4550
+2025-08,Accessories,Daypack,Web,124,5,31850,452075,21600
+2025-08,Apparel,Merino tee,Store,40,2,9065,97995,6065
+2025-08,Apparel,Merino tee,Web,114,11,50715,286060,42215
+2025-08,Apparel,Rain shell,Store,42,3,29700,201060,17750
+2025-08,Apparel,Rain shell,Web,125,15,139095,616095,84445
+2025-08,Home,Reading lamp,Store,49,0,0,198695,0
+2025-08,Home,Reading lamp,Web,160,12,89270,664205,81870
+2025-08,Accessories,Steel bottle,Store,59,0,0,95760,0
+2025-08,Accessories,Steel bottle,Web,124,10,28130,207685,22130
+2025-08,Home,Stoneware set,Store,66,5,27140,185720,21390
+2025-08,Home,Stoneware set,Web,116,9,49560,320070,48910
+2025-08,Footwear,Trail runner,Store,51,7,59185,234975,39735
+2025-08,Footwear,Trail runner,Web,121,35,296370,543590,202320
+2025-09,Footwear,City sneaker,Store,54,6,40020,192885,26020
+2025-09,Footwear,City sneaker,Web,80,8,51750,291710,38850
+2025-09,Accessories,Daypack,Store,61,4,24700,217750,16600
+2025-09,Accessories,Daypack,Web,138,5,30225,501150,25375
+2025-09,Apparel,Merino tee,Store,47,2,9800,116020,6500
+2025-09,Apparel,Merino tee,Web,121,8,37240,307025,24540
+2025-09,Apparel,Rain shell,Store,50,7,67320,243765,44470
+2025-09,Apparel,Rain shell,Web,112,11,103950,550845,60300
+2025-09,Home,Reading lamp,Store,52,1,7900,202960,4900
+2025-09,Home,Reading lamp,Web,112,10,72680,460085,64680
+2025-09,Accessories,Steel bottle,Store,43,2,5510,72615,4610
+2025-09,Accessories,Steel bottle,Web,144,7,18415,238610,14465
+2025-09,Home,Stoneware set,Store,44,1,5015,121355,5465
+2025-09,Home,Stoneware set,Web,107,12,67555,298955,65755
+2025-09,Footwear,Trail runner,Store,56,8,68085,253300,49285
+2025-09,Footwear,Trail runner,Web,119,25,208260,534925,135910
+2025-10,Footwear,City sneaker,Store,57,7,46575,206955,30225
+2025-10,Footwear,City sneaker,Web,145,23,151455,534805,103805
+2025-10,Accessories,Daypack,Store,54,4,24375,190775,19075
+2025-10,Accessories,Daypack,Web,135,8,47775,477100,33775
+2025-10,Apparel,Merino tee,Store,53,4,19110,133500,14760
+2025-10,Apparel,Merino tee,Web,125,13,60270,318270,43570
+2025-10,Apparel,Rain shell,Store,44,4,38115,210870,22315
+2025-10,Apparel,Rain shell,Web,119,21,191070,581715,130220
+2025-10,Home,Reading lamp,Store,63,4,30415,257440,25515
+2025-10,Home,Reading lamp,Web,115,11,81765,468695,74115
+2025-10,Accessories,Steel bottle,Store,51,3,8700,88030,6950
+2025-10,Accessories,Steel bottle,Web,102,3,8700,172145,7350
+2025-10,Home,Stoneware set,Store,64,2,11210,183945,12310
+2025-10,Home,Stoneware set,Web,130,16,92335,363765,89635
+2025-10,Footwear,Trail runner,Store,63,9,77875,284740,51425
+2025-10,Footwear,Trail runner,Web,118,21,179335,546835,120985
+2025-11,Footwear,City sneaker,Store,63,2,12765,228885,11165
+2025-11,Footwear,City sneaker,Web,184,27,175950,672175,129900
+2025-11,Accessories,Daypack,Store,69,3,18850,247325,12800
+2025-11,Accessories,Daypack,Web,180,11,65000,633100,42950
+2025-11,Apparel,Merino tee,Store,87,5,23765,217200,19965
+2025-11,Apparel,Merino tee,Web,188,23,110250,472655,76400
+2025-11,Apparel,Rain shell,Store,81,2,18810,393840,10910
+2025-11,Apparel,Rain shell,Web,193,23,219285,953100,133035
+2025-11,Home,Reading lamp,Store,74,1,7900,304020,5000
+2025-11,Home,Reading lamp,Web,207,10,71890,840175,60140
+2025-11,Accessories,Steel bottle,Store,55,0,0,89285,0
+2025-11,Accessories,Steel bottle,Web,192,7,19865,326605,17415
+2025-11,Home,Stoneware set,Store,82,5,28320,228830,28170
+2025-11,Home,Stoneware set,Web,172,11,60180,476855,60730
+2025-11,Footwear,Trail runner,Store,83,16,136615,379845,95015
+2025-11,Footwear,Trail runner,Web,148,36,305715,668800,196515
+2025-12,Footwear,City sneaker,Store,83,7,43125,296810,29575
+2025-12,Footwear,City sneaker,Web,161,21,135585,590870,85735
+2025-12,Accessories,Daypack,Store,73,6,36725,258375,27125
+2025-12,Accessories,Daypack,Web,153,13,80600,538850,56850
+2025-12,Apparel,Merino tee,Store,82,6,27440,196835,21840
+2025-12,Apparel,Merino tee,Web,168,20,95305,431620,65655
+2025-12,Apparel,Rain shell,Store,85,9,83655,408510,57205
+2025-12,Apparel,Rain shell,Web,193,37,346500,943695,235950
+2025-12,Home,Reading lamp,Store,67,5,39500,284325,35450
+2025-12,Home,Reading lamp,Web,181,8,62410,747385,53010
+2025-12,Accessories,Steel bottle,Store,84,3,8120,139165,6570
+2025-12,Accessories,Steel bottle,Web,190,5,12760,313435,10210
+2025-12,Home,Stoneware set,Store,71,7,38940,191485,37290
+2025-12,Home,Stoneware set,Web,189,17,96760,524835,81110
+2025-12,Footwear,Trail runner,Store,80,11,94785,362620,61735
+2025-12,Footwear,Trail runner,Web,212,63,536225,975450,340775

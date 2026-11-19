@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 540" role="img"><title>Annual retail returns and five largest margin exposures</title>
+<rect width="1040" height="540" rx="18" fill="#102f38"/>
+<text x="36" y="44" fill="#99e4cc" font-family="Arial, sans-serif" font-size="16" font-weight="700">OPERATIONS REVIEW     /     FY 2025</text>
+<text x="36" y="96" fill="#eaf5ed" font-family="Arial, sans-serif" font-size="40" font-weight="700">Where returns erode margin</text>
+<text x="36" y="167" fill="#eaf5ed" font-family="Arial, sans-serif" font-size="38" font-weight="400">17,743</text>
+<text x="36" y="198" fill="#abd0c6" font-family="Arial, sans-serif" font-size="17" font-weight="400">Units shipped</text>
+<text x="360" y="167" fill="#eaf5ed" font-family="Arial, sans-serif" font-size="38" font-weight="400">10.05%</text>
+<text x="360" y="198" fill="#abd0c6" font-family="Arial, sans-serif" font-size="17" font-weight="400">Unit return rate</text>
+<text x="690" y="167" fill="#eaf5ed" font-family="Arial, sans-serif" font-size="38" font-weight="400">€88,710</text>
+<text x="690" y="198" fill="#abd0c6" font-family="Arial, sans-serif" font-size="17" font-weight="400">Margin erosion</text>
+<path d="M36 223 H1004" stroke="#52716f"/>
+<text x="36" y="261" fill="#eaf5ed" font-family="Arial, sans-serif" font-size="23" font-weight="700">Largest exposures by product, channel and return reason</text>
+<text x="36" y="301" fill="#eaf5ed" font-family="Arial, sans-serif" font-size="17" font-weight="400">Trail runner  /  Web  /  Fit</text>
+<rect x="438" y="285" width="390.0" height="19" rx="3" fill="#92e8bd"/>
+<text x="848" y="301" fill="#eaf5ed" font-family="Arial, sans-serif" font-size="18" font-weight="400">€14,182.95</text>
+<text x="36" y="342" fill="#eaf5ed" font-family="Arial, sans-serif" font-size="17" font-weight="400">Rain shell  /  Web  /  Fit</text>
+<rect x="438" y="326" width="221.8" height="19" rx="3" fill="#58a69d"/>
+<text x="848" y="342" fill="#eaf5ed" font-family="Arial, sans-serif" font-size="18" font-weight="400">€8,066.85</text>
+<text x="36" y="383" fill="#eaf5ed" font-family="Arial, sans-serif" font-size="17" font-weight="400">City sneaker  /  Web  /  Fit</text>
+<rect x="438" y="367" width="189.0" height="19" rx="3" fill="#58a69d"/>
+<text x="848" y="383" fill="#eaf5ed" font-family="Arial, sans-serif" font-size="18" font-weight="400">€6,874.30</text>
+<text x="36" y="424" fill="#eaf5ed" font-family="Arial, sans-serif" font-size="17" font-weight="400">Stoneware set  /  Web  /  Damage</text>
+<rect x="438" y="408" width="148.4" height="19" rx="3" fill="#58a69d"/>
+<text x="848" y="424" fill="#eaf5ed" font-family="Arial, sans-serif" font-size="18" font-weight="400">€5,398.10</text>
+<text x="36" y="465" fill="#eaf5ed" font-family="Arial, sans-serif" font-size="17" font-weight="400">Reading lamp  /  Web  /  Damage</text>
+<rect x="438" y="449" width="109.2" height="19" rx="3" fill="#58a69d"/>
+<text x="848" y="465" fill="#eaf5ed" font-family="Arial, sans-serif" font-size="18" font-weight="400">€3,970.05</text>
+<text x="36" y="512" fill="#abd0c6" font-family="Arial, sans-serif" font-size="15" font-weight="400">Simulated retailer   •   2025 shipment cohorts   •   30-day return window</text>
+</svg>

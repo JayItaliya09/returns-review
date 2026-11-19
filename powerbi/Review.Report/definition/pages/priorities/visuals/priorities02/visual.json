@@ -1,0 +1,115 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.0.0/schema.json",
+  "name": "priorities02",
+  "position": {
+    "x": 20,
+    "y": 350,
+    "width": 1240,
+    "height": 350,
+    "z": 2,
+    "tabOrder": 2
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Drivers"
+                    }
+                  },
+                  "Property": "product"
+                }
+              },
+              "queryRef": "Drivers.product",
+              "nativeQueryRef": "product"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Drivers"
+                    }
+                  },
+                  "Property": "channel"
+                }
+              },
+              "queryRef": "Drivers.channel",
+              "nativeQueryRef": "channel"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Drivers"
+                    }
+                  },
+                  "Property": "reason"
+                }
+              },
+              "queryRef": "Drivers.reason",
+              "nativeQueryRef": "reason"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Drivers"
+                    }
+                  },
+                  "Property": "Return events"
+                }
+              },
+              "queryRef": "Drivers.Return events",
+              "nativeQueryRef": "Return events"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Drivers"
+                    }
+                  },
+                  "Property": "Cost exposure"
+                }
+              },
+              "queryRef": "Drivers.Cost exposure",
+              "nativeQueryRef": "Cost exposure"
+            }
+          ]
+        }
+      }
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Product, channel and reason detail'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,57 @@
+priority,product,channel,reason,events,erosion_c,share_pct
+1,Trail runner,Web,Fit,265,1418295,15.99
+2,Rain shell,Web,Fit,141,806685,9.09
+3,City sneaker,Web,Fit,154,687430,7.75
+4,Stoneware set,Web,Damage,93,539810,6.09
+5,Reading lamp,Web,Damage,54,397005,4.48
+6,Trail runner,Web,Changed mind,65,361100,4.07
+7,Trail runner,Store,Fit,67,357425,4.03
+8,Merino tee,Web,Fit,100,324635,3.66
+9,Daypack,Web,Changed mind,54,224100,2.53
+10,City sneaker,Store,Fit,51,215095,2.42
+11,Rain shell,Web,Changed mind,36,209675,2.36
+12,Rain shell,Web,Description,35,208770,2.35
+13,Trail runner,Web,Description,37,204685,2.31
+14,Trail runner,Web,Damage,24,183425,2.07
+15,Rain shell,Store,Fit,28,172475,1.94
+16,Stoneware set,Store,Damage,27,162795,1.84
+17,Rain shell,Web,Damage,16,139495,1.57
+18,City sneaker,Web,Changed mind,30,134070,1.51
+19,Daypack,Web,Description,30,130725,1.47
+20,City sneaker,Web,Description,27,124205,1.4
+21,Merino tee,Web,Description,35,111470,1.26
+22,Reading lamp,Web,Changed mind,21,109135,1.23
+23,Reading lamp,Web,Description,22,107420,1.21
+24,Merino tee,Web,Changed mind,33,105280,1.19
+25,Reading lamp,Store,Damage,13,98505,1.11
+26,Steel bottle,Web,Changed mind,44,96735,1.09
+27,Trail runner,Store,Changed mind,17,91485,1.03
+28,Merino tee,Store,Fit,26,89545,1.01
+29,Trail runner,Store,Description,13,85380,0.96
+30,Daypack,Store,Changed mind,19,81250,0.92
+31,Rain shell,Store,Description,14,75480,0.85
+32,Trail runner,Store,Damage,9,74925,0.84
+33,Stoneware set,Web,Description,19,70130,0.79
+34,Stoneware set,Web,Changed mind,19,69940,0.79
+35,City sneaker,Web,Damage,9,57355,0.65
+36,Steel bottle,Web,Description,24,56555,0.64
+37,Merino tee,Web,Damage,10,52640,0.59
+38,Rain shell,Store,Changed mind,7,44170,0.5
+39,Merino tee,Store,Changed mind,13,41775,0.47
+40,Reading lamp,Store,Description,6,39460,0.44
+41,Daypack,Store,Description,9,37425,0.42
+42,Daypack,Web,Damage,5,33200,0.37
+43,Merino tee,Store,Description,8,25755,0.29
+44,Stoneware set,Store,Description,7,25300,0.29
+45,Reading lamp,Store,Changed mind,5,25000,0.28
+46,Stoneware set,Store,Changed mind,6,22630,0.26
+47,Merino tee,Store,Damage,4,21700,0.24
+48,Steel bottle,Store,Description,9,20860,0.24
+49,City sneaker,Store,Damage,3,20380,0.23
+50,City sneaker,Store,Changed mind,4,17165,0.19
+51,City sneaker,Store,Description,4,16575,0.19
+52,Daypack,Store,Damage,2,13550,0.15
+53,Steel bottle,Store,Changed mind,6,12660,0.14
+54,Steel bottle,Web,Damage,3,8860,0.1
+55,Rain shell,Store,Damage,1,5950,0.07
+56,Steel bottle,Store,Damage,1,3450,0.04
