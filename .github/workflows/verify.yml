@@ -1,19 +1,16 @@
-name: Import verified portfolio
-on: push
-permissions:
-  contents: write
+name: Verify analytics portfolio
+on: [push, pull_request]
 jobs:
-  import:
+  reproduce:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Publish the verified project tree
-        run: |
-          echo '4ddbc27d8d973a9216ed430cb5a9b7d499e48439e3f36b27c09a1254152ff496  returns-review.zip' | sha256sum --check
-          unzip -q returns-review.zip -d "$RUNNER_TEMP/import"
-          rsync -a --exclude='.github/' "$RUNNER_TEMP/import/returns-review/" ./
-          python3 src/verify.py
-          git rm returns-review.zip
-          git add .
-          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Publish retail analytics project and README'
-          git push origin HEAD:main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python src/generate.py
+      - run: python src/build.py
+      - run: python src/powerbi.py
+      - run: python src/figure.py
+      - run: python src/verify.py
+      - run: git diff --exit-code -- data/raw data/mart/*.csv powerbi docs/overview.svg
